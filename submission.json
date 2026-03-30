@@ -1,0 +1,6 @@
+{
+  "prompt": "Aerial drone photograph of a vast undulating sand dune landscape at golden hour. Long dramatic shadows reveal every contour and hollow across the dunes. A single polished silver marble rests in a shallow depression, partway down toward the deepest valley visible in the distance. Behind the marble, a thin winding groove is carved into the sand, tracing its full journey — originating from a high ridge on the far left, descending, briefly spiraling into a small bowl-shaped hollow before escaping, then continuing its descent toward the lowest point of the entire landscape. The path is clearly visible but not straight. The deepest valley catches the last warm golden light. No people. Photorealistic cinematic drone photography, warm golden hour light, 35mm aerial, high detail.",
+  "model": "Ideogram 2",
+  "concept": "gradient descent",
+  "metaphor": "A marble rolling down sand dunes toward the lowest valley, its carved trail showing a winding path past a local minimum — each step follows the steepest downward slope."
+}
